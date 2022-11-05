@@ -1,0 +1,20 @@
+Patika
+Ödev 3
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız. 
+1.	İkili arama aracıdır. 
+2.	Root Node seçilir.
+3.	Sonra gelen sayılar büyükse sağ, küçük ise sol tarafına geçer.
+
+
+[0,1,2,3,4,5,6,7,8,9] Binary-Search-Tree 
+
+1.	5 roottur.
+2.	9 rootun sağındadır.
+3.	4 rootun solundadır.
+4.	3, 4 ün sağındadır.
+5.	2, 4’ün solundadır.
+6.	1, 2’nin solundadır.
+7.	8, 9’un sağındadır.
+8.	7, 9’un solundadır. 
+9.	6, 7’nin sağındadır.
